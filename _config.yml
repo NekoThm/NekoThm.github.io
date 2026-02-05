@@ -26,7 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Ziqing Lin"
   pronouns         : # example: "she/her"  
-  bio              : "I am a senior student at Nankai University, working on LLM and computer architecture. I am passionate about vibe coding."
+  bio              : |
+    I am a senior student at NKU.
+    I am working on LLM and computer architecture.
+    I am passionate about vibe coding.
   location         : "Tianjin, China"
   employer         : "Nankai University"
   uri              : # URL
